@@ -1,0 +1,121 @@
+"","genus_grouped","month","region","mean_reads"
+"1","Other species","May","Midlands",7860
+"2","Other species","May","North",6003
+"3","Other species","May","Scotland",0
+"4","Other species","May","South",73998
+"5","Other species","June","Midlands",26972
+"6","Other species","June","North",6282
+"7","Other species","June","Scotland",17178
+"8","Other species","June","South",102566
+"9","Other species","July","Midlands",50430
+"10","Other species","July","North",61432
+"11","Other species","July","Scotland",13430
+"12","Other species","July","South",198897
+"13","Other species","August","Midlands",103100
+"14","Other species","August","North",113828
+"15","Other species","August","Scotland",52296
+"16","Other species","August","South",340211
+"17","Other species","September","Midlands",37069
+"18","Other species","September","North",41386
+"19","Other species","September","Scotland",22968
+"20","Other species","September","South",110788
+"21","Myosotis","May","Midlands",5479
+"22","Myosotis","May","North",8363
+"23","Myosotis","May","Scotland",0
+"24","Myosotis","May","South",75419
+"25","Myosotis","June","Midlands",4570
+"26","Myosotis","June","North",6062
+"27","Myosotis","June","Scotland",639
+"28","Myosotis","June","South",58703
+"29","Myosotis","July","Midlands",5489
+"30","Myosotis","July","North",10257
+"31","Myosotis","July","Scotland",4042
+"32","Myosotis","July","South",67144
+"33","Myosotis","August","Midlands",7717
+"34","Myosotis","August","North",6282
+"35","Myosotis","August","Scotland",757
+"36","Myosotis","August","South",38445
+"37","Myosotis","September","Midlands",5247
+"38","Myosotis","September","North",3408
+"39","Myosotis","September","Scotland",130
+"40","Myosotis","September","South",14591
+"41","Rubus","May","Midlands",3399
+"42","Rubus","May","North",120
+"43","Rubus","May","Scotland",0
+"44","Rubus","May","South",5114
+"45","Rubus","June","Midlands",3570
+"46","Rubus","June","North",1251
+"47","Rubus","June","Scotland",120
+"48","Rubus","June","South",48896
+"49","Rubus","July","Midlands",77787
+"50","Rubus","July","North",45671
+"51","Rubus","July","Scotland",1173
+"52","Rubus","July","South",268669
+"53","Rubus","August","Midlands",111769
+"54","Rubus","August","North",63994
+"55","Rubus","August","Scotland",16305
+"56","Rubus","August","South",367837
+"57","Rubus","September","Midlands",30714
+"58","Rubus","September","North",13336
+"59","Rubus","September","Scotland",6605
+"60","Rubus","September","South",90334
+"61","Impatiens","May","Midlands",0
+"62","Impatiens","May","North",0
+"63","Impatiens","May","Scotland",0
+"64","Impatiens","May","South",25
+"65","Impatiens","June","Midlands",153
+"66","Impatiens","June","North",6436
+"67","Impatiens","June","Scotland",19
+"68","Impatiens","June","South",4273
+"69","Impatiens","July","Midlands",2463
+"70","Impatiens","July","North",5856
+"71","Impatiens","July","Scotland",55
+"72","Impatiens","July","South",14781
+"73","Impatiens","August","Midlands",9979
+"74","Impatiens","August","North",51058
+"75","Impatiens","August","Scotland",1864
+"76","Impatiens","August","South",35622
+"77","Impatiens","September","Midlands",25656
+"78","Impatiens","September","North",41842
+"79","Impatiens","September","Scotland",9330
+"80","Impatiens","September","South",27781
+"81","Trifolium","May","Midlands",3401
+"82","Trifolium","May","North",376
+"83","Trifolium","May","Scotland",0
+"84","Trifolium","May","South",106
+"85","Trifolium","June","Midlands",5666
+"86","Trifolium","June","North",1061
+"87","Trifolium","June","Scotland",3884
+"88","Trifolium","June","South",6499
+"89","Trifolium","July","Midlands",22156
+"90","Trifolium","July","North",20930
+"91","Trifolium","July","Scotland",3565
+"92","Trifolium","July","South",52071
+"93","Trifolium","August","Midlands",48628
+"94","Trifolium","August","North",61337
+"95","Trifolium","August","Scotland",29849
+"96","Trifolium","August","South",126163
+"97","Trifolium","September","Midlands",14508
+"98","Trifolium","September","North",18153
+"99","Trifolium","September","Scotland",16616
+"100","Trifolium","September","South",41782
+"101","Brassica","May","Midlands",75482
+"102","Brassica","May","North",40890
+"103","Brassica","May","Scotland",0
+"104","Brassica","May","South",246794
+"105","Brassica","June","Midlands",54072
+"106","Brassica","June","North",16488
+"107","Brassica","June","Scotland",31505
+"108","Brassica","June","South",243772
+"109","Brassica","July","Midlands",31094
+"110","Brassica","July","North",24447
+"111","Brassica","July","Scotland",5104
+"112","Brassica","July","South",146355
+"113","Brassica","August","Midlands",27160
+"114","Brassica","August","North",17206
+"115","Brassica","August","Scotland",10206
+"116","Brassica","August","South",100912
+"117","Brassica","September","Midlands",18053
+"118","Brassica","September","North",14438
+"119","Brassica","September","Scotland",16433
+"120","Brassica","September","South",61580
